@@ -1,0 +1,16 @@
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.iml
+*.class
+*.log
+.idea/
+.project
+.settings/
+target/
+.git/
+.gitignore
+.DS_Store
